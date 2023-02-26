@@ -1,2 +1,2 @@
 # odin-recipes
-The Odin Project assignment about creating a recipe html document
+The Odin Project assignment about creating basic recipe website
