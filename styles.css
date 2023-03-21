@@ -1,0 +1,38 @@
+.image {
+    height: auto;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
+.under-image-text {
+    text-align: center;
+    background-color: lightsteelblue;
+    color: darkblue;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
+
+.heading {
+    text-align: center;
+    background-color: lightsteelblue;
+    color: darkblue;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.side-by-side {
+    width: 100%;
+    border: 1px solid black;
+}
+
+.side-by-side li {
+    display: block;
+    float: left;
+    width: 200px;
+    height: 270px;
+    border: 1px solid black;
+    margin: 10px;
+    margin-left: 150px;
+
+}

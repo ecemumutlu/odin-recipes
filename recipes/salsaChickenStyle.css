@@ -1,0 +1,32 @@
+
+* {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+
+.heading {
+    text-align: center;
+    background-color: lightsteelblue;
+    color: darkblue;
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+.image {
+    height: auto;
+    width: 200px;
+    float: left;
+    
+}
+
+#ingredients {
+    display: inline-block;
+    vertical-align: top;
+}
+
+#description {
+    z-index: 10px;
+    position: relative;
+}
