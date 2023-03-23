@@ -11,15 +11,6 @@ li {
 
 }
 
-.under-image-text {
-    text-align: center;
-    align-items: center;
-    color: darkblue;
-    font-family:'Times New Roman', Times, serif;
-
-
-}
-
 .split {
     height: 100%;
 
@@ -63,6 +54,15 @@ li {
     height: auto;
     width: 200px;
     padding-left: 0px;
+
+}
+
+.under-image-text {
+    text-align: center;
+    align-items: center;
+    color: darkblue;
+    font-family:'Times New Roman', Times, serif;
+
 
 }
 
